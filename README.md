@@ -5,6 +5,7 @@ Welcome to my GitHub profile!
 🚀 Skills:
 
 Programming Languages: Python, Javascript, C
+
 Web Development: HTML, CSS, JavaScript
 
 📫 Reach Me:
